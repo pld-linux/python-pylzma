@@ -2,7 +2,7 @@
 Summary:	Platform independent python bindings for the LZMA compression library
 Name:		python-%{module}
 Version:	0.3.0
-Release:	1
+Release:	2
 License:	LGPL v2.1
 Group:		Libraries/Python
 Source0:	http://www.joachim-bauch.de/projects/python/pylzma/releases/%{module}-%{version}.tar.gz/download
