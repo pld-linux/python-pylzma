@@ -8,6 +8,7 @@ Group:		Libraries/Python
 Source0:	http://www.joachim-bauch.de/projects/python/pylzma/releases/%{module}-%{version}.tar.gz/download
 # Source0-md5:	7ab1a1706cf3e19f2d10579d795babf7
 URL:		http://www.joachim-bauch.de/projects/python/pylzma/
+BuildRequires:	rpmbuild(macros) >= 1.710
 BuildRequires:	python >= 1:2.5
 BuildRequires:	python-devel >= 1:2.5
 BuildRequires:	python-modules >= 1:2.5
